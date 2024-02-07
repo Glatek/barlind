@@ -2,6 +2,7 @@
 Carl M. Peterson
 :doctype: book
 :toc:
+:toc-title: Innehållsförteckning
 
 include::chapters/chapter-1.adoc[]
 
