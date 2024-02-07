@@ -1,6 +1,7 @@
 = Ugglehultsboken
 Carl M. Peterson
 :doctype: book
+:toc:
 
 include::chapters/chapter-1.adoc[]
 
