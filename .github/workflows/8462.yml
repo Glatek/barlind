@@ -11,7 +11,7 @@ jobs:
     name: Press 8462
     steps:
       - uses: actions/checkout@v4
-      - uses: enjikaka/asciidoctor-convert-action@v0.19
+      - uses: enjikaka/asciidoctor-convert-action@v0.24
         with:
           inputBook: books/8462/index.adoc
           outputDir: build

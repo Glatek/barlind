@@ -1,14 +1,9 @@
 = Ugglehultsboken
 Carl M. Peterson
 :doctype: book
-:media: print
 // Amazon KDP format for PDF output
 :pdf-page-size: 6in x 9in
 :toc:
 :toc-title: Innehållsförteckning
 
-include::chapters/1.adoc[]
-
-include::chapters/2.adoc[]
-
-include::chapters/3.adoc[]
+include::chapters/000.adoc[]
