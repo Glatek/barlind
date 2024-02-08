@@ -1,0 +1,10 @@
+= Svenska folket genom tiderna: Vårt lands kulturhistoria i skildringar och bilder
+Ewert Wrangel; Arvid Gierow; Bror Olsson
+:doctype: book
+:media: print
+// Amazon KDP format for PDF output
+:pdf-page-size: 6in x 9in
+:toc:
+:toc-title: Innehållsförteckning
+
+include::chapters/1/0.adoc[]

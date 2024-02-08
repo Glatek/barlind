@@ -1,0 +1,24 @@
+name: Book 8462
+
+on:
+  push:
+    paths:
+      - books/8462/**
+
+jobs:
+  build_book:
+    runs-on: ubuntu-latest
+    name: Press 8462
+    steps:
+      - uses: actions/checkout@v4
+      - uses: enjikaka/asciidoctor-convert-action@v0.19
+        with:
+          inputBook: books/8462/index.adoc
+          outputDir: build
+          outputName: "8462"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: book-8462
+          path: |
+            build/8462.epub
+            build/8462.pdf
