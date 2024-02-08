@@ -7,6 +7,8 @@ Carl M. Peterson
 :toc:
 :toc-title: Innehållsförteckning
 
-include::chapters/chapter-1.adoc[]
+include::chapters/1.adoc[]
 
-include::chapters/chapter-2.adoc[]
+include::chapters/2.adoc[]
+
+include::chapters/3.adoc[]
