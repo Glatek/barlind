@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - books/1618504/**
+      - .github/workflows/1618504.yml
 
 jobs:
   build_book:
