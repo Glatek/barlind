@@ -21,4 +21,4 @@ jobs:
           name: book-1618504
           path: |
             build/1618504.epub
-            build/1618504.pdf
+            build/1618504.*.pdf

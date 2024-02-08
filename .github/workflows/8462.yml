@@ -21,4 +21,4 @@ jobs:
           name: book-8462
           path: |
             build/8462.epub
-            build/8462.pdf
+            build/8462.*.pdf
