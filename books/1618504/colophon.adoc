@@ -1,5 +1,4 @@
 [colophon]
-== Kolofon
 
 Digital inläsning utgjord av Projekt Runeberg.
 
