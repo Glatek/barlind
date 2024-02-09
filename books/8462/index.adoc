@@ -7,4 +7,8 @@ Ewert Wrangel; Arvid Gierow; Bror Olsson
 :toc:
 :toc-title: Innehållsförteckning
 
+include::colophon.adoc[]
+
 include::chapters/1/0.adoc[]
+
+include::register.adoc[]

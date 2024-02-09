@@ -1,4 +1,4 @@
-= Ugglehultsboken
+= Ugglehultsboken: Carl M. Petersons småbruksdrift och föreläsningar.
 Carl M. Peterson
 :doctype: book
 // Amazon KDP format for PDF output
@@ -6,4 +6,8 @@ Carl M. Peterson
 :toc:
 :toc-title: Innehållsförteckning
 
+include::colophon.adoc[]
+
 include::chapters/000.adoc[]
+
+include::register.adoc[]
