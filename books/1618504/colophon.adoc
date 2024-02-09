@@ -1,5 +1,8 @@
 [colophon]
+== Kolofon
 
 Digital inläsning utgjord av Projekt Runeberg.
 
 År 2024 adapterad till digitalt format och tryck med hjälp av artificiell intelligens av redaktör Jeremy Karlsson, Glatek.
+
+Detta verk är kulturell allmänning. Licens CC0 / PD.
